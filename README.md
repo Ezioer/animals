@@ -6,10 +6,12 @@
 
 
 ## :scroll: Description
+This is a animals app by android jetpack compose
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
+jetpack compose
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
